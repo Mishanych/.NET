@@ -1,0 +1,7 @@
+D:\Learning\2 курс\.NET\Laba1\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+D:\Learning\2 курс\.NET\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+D:\Learning\2 курс\.NET\Laba1\Laba1\bin\Debug\Laba1.exe.config
+D:\Learning\2 курс\.NET\Laba1\Laba1\bin\Debug\Laba1.exe
+D:\Learning\2 курс\.NET\Laba1\Laba1\bin\Debug\Laba1.pdb
+D:\Learning\2 курс\.NET\Laba1\Laba1\obj\Debug\Laba1.exe
+D:\Learning\2 курс\.NET\Laba1\Laba1\obj\Debug\Laba1.pdb
